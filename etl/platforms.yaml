@@ -1,0 +1,5 @@
+# Defines the priority order of platforms to use
+platform_priority:
+  - Finnhub
+  - AlphaVantage
+  - Yahoo
