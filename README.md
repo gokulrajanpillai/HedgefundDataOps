@@ -175,3 +175,8 @@ TBD (default: proprietary / all rights reserved for client deployments).
 ## Maintainers
 
 Core engineering: DevOps & Data Platform team.
+
+---
+
+## Developer Setup
+For detailed instructions on setting up your development environment (virtualenv, dependencies, API keys, and running the pipeline), see [docs/DEVELOPER_SETUP.md](docs/DEVELOPER_SETUP.md).
